@@ -20,6 +20,22 @@ namespace operacionesForGit
 
         }
 
+        public void Restar(short numeroUno, short numeroDos)
+        {
+            short restarNumeros = 0;
+            restarNumeros = (short)(numeroUno - numeroDos);
+            Console.WriteLine("Resultado de la resta: " + restarNumeros);
+
+        }
+
+        public void Multiplicar(short numeroUno, short numeroDos)
+        {
+            short multiplicarNumeros = 0;
+            multiplicarNumeros = (short)(numeroUno * numeroDos);
+            Console.WriteLine("Resultado de la multiplicacion: " + multiplicarNumeros);
+
+        }
+
         //en la class Program vamos a invocar esta clase para utilizar sus atributos y el metodo creado
     }
 }

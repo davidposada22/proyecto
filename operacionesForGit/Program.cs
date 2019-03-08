@@ -40,6 +40,8 @@ namespace operacionesForGit
 
             //acceder al metodo (utilizarlo)
             realizarOperacion.Sumar(realizarOperacion.nUno, realizarOperacion.nDos);
+            realizarOperacion.Restar(realizarOperacion.nUno, realizarOperacion.nDos);
+            realizarOperacion.Multiplicar(realizarOperacion.nUno, realizarOperacion.nDos);
 
             Console.ReadLine();
         }
