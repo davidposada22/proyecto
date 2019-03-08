@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\CESDE 2019-1\NUEVAS TECNOLOGIAS DESARROLLO\operacionesForGit\operacionesForGit\bin\Debug\operacionesForGit.exe.config
+C:\Users\david\Desktop\CESDE 2019-1\NUEVAS TECNOLOGIAS DESARROLLO\operacionesForGit\operacionesForGit\bin\Debug\operacionesForGit.exe
+C:\Users\david\Desktop\CESDE 2019-1\NUEVAS TECNOLOGIAS DESARROLLO\operacionesForGit\operacionesForGit\bin\Debug\operacionesForGit.pdb
+C:\Users\david\Desktop\CESDE 2019-1\NUEVAS TECNOLOGIAS DESARROLLO\operacionesForGit\operacionesForGit\obj\Debug\operacionesForGit.csprojAssemblyReference.cache
+C:\Users\david\Desktop\CESDE 2019-1\NUEVAS TECNOLOGIAS DESARROLLO\operacionesForGit\operacionesForGit\obj\Debug\operacionesForGit.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\CESDE 2019-1\NUEVAS TECNOLOGIAS DESARROLLO\operacionesForGit\operacionesForGit\obj\Debug\operacionesForGit.exe
+C:\Users\david\Desktop\CESDE 2019-1\NUEVAS TECNOLOGIAS DESARROLLO\operacionesForGit\operacionesForGit\obj\Debug\operacionesForGit.pdb
